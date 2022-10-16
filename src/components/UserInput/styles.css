@@ -1,0 +1,31 @@
+.user-input-container {
+	width: 100%;
+	display: flex;
+	justify-content: center
+}
+
+.user-input-wrapper {
+	display: flex;
+	align-self: center;
+	justify-content: space-around;
+	align-items: center;
+	max-width: 50vw;
+	flex: 1
+}
+
+.user-text-input {
+	margin: 10px;
+	display: flex;
+	align-items: center;
+	flex: 1
+}
+
+.user-input-label {
+	margin-right: 10px;
+	flex: 1
+}
+
+.user-input {
+	display: flex;
+	flex: 2
+}
